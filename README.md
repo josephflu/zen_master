@@ -1,6 +1,6 @@
 # Zen Master
 
-**AI Feature Testing Suite for Kizen**
+**Feature Testing Suite for Kizen**
 
 Zen Master (formerly KizenTester) is a testing utility for Kizen's REST API features, enabling QA teams and developers to validate AI functionality before front-end availability. It provides an intuitive web interface for testing multiple environments and managing API connections.
 
