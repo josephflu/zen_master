@@ -16,9 +16,8 @@ A powerful testing utility for Kizen's REST API, enabling QA teams and developer
 ## Installation
 
 ### macOS/Linux
-
-```bash
 # Download and run the installer
+```bash
 curl -sSL https://github.com/josephflu/zen_master/releases/download/setup/zen_setup.sh | bash
 ```
 
